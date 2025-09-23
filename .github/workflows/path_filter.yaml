@@ -6,7 +6,7 @@ on:
 
 jobs:
   path-filter:
-    runs-in: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
     - name: echo hello
       run: echo hello
